@@ -1,6 +1,7 @@
-- 👋 Hello World, I’m Alex.
+- 👋 Hello World, I’m Alex H.
 - 👀 FRC Team 1073 Software, former CEO / Safety VP. 
-- 🌱 Currently working on fiducial marker detectors (AprilTag family #16h5) and localization for our 2023 competition robot.
+- 🌱 Currently working on 1073's 2023 competition robot, specializing in programming for fiducial marker detection (AprilTag family #16h5) & localization.
+     Assisting with trajectory commands, swerve drive tuning, robot controls, and whatever else is needed :).
 - 🤖 alex.h@frc1073.org (Robotics)
 - 📫 alex.hill1073@gmail.com (Professional)
 
