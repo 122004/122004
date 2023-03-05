@@ -1,4 +1,4 @@
-- 👋 Hello World, I’m Alex H.
+- 👋 Hello World, I’m Alex.
 - 👀 FRC Team 1073 Software, former CEO / Safety VP. 
 - 🌱 Currently working on 1073's 2023 competition robot, specializing in programming [fiducial marker detection](https://github.com/FRCTeam1073-TheForceTeam/nanovision2023) (AprilTag family #16h5).
      Assisting with [trajectory commands, localization, swerve drive tuning, and autonomous routines](https://github.com/FRCTeam1073-TheForceTeam/robot2023).
