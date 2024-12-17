@@ -1,5 +1,4 @@
-Northeastern University
-*Mechanical Engineering Undergraduate, London Scholars Program*
+Northeastern University Mechanical Engineering Undergraduate, London Scholars Program
 
 - Current project: Building AI agents for philosophical discussions
 - Latest university project: Cornerstone of Engineering I Final, "Chekov's Cat"
