@@ -1,4 +1,4 @@
-Northeastern University Mechanical Engineering Undergraduate, London Scholars Program
+Northeastern University Mechanical Engineering Undergrad
 
 - Current project: Building an ML model for CTR sorting (compost, trash + recycling :) )
 - Latest program completed: Intro to GenAI, Girls Who ML London
